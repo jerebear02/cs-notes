@@ -1,6 +1,6 @@
 # CS Notes
 
-Cornell-style notes from my CS self-study. Written in Markdown so they render directly on GitHub.
+Cornell-style notes from my CS self study. Written in Markdown so they render directly on GitHub.
 
 ## CS50x (Harvard)
 
